@@ -20,7 +20,6 @@ function add() {
   var add = Number.parseInt(firstnumber) + Number.parseInt(secoundnumber);
   console.log(firstnumber, secoundnumber, add);
   document.getElementById("add").value = add;
-
 }
 
 function product() {
@@ -29,7 +28,6 @@ function product() {
   var product = Number.parseInt(firstnumber) * Number.parseInt(secoundnumber);
   console.log(firstnumber, secoundnumber, product);
   document.getElementById("product").value = product;
-
 }
 
 function sub() {
@@ -38,7 +36,6 @@ function sub() {
   var sub = Number.parseInt(firstnumber) - Number.parseInt(secoundnumber);
   console.log(firstnumber, secoundnumber, sub);
   document.getElementById("sub").value = sub;
-
 }
 
 function div() {
@@ -47,5 +44,4 @@ function div() {
   var div = Number.parseInt(firstnumber) / Number.parseInt(secoundnumber);
   console.log(firstnumber, secoundnumber, div);
   document.getElementById("div").value = div;
-
 }
