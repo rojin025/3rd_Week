@@ -21,7 +21,11 @@
     <p>Division</p>
     <input id="div" type="text" />
   </form>
-    <button onclick="math()">Run Function</button>
+    <button onclick="math()">Math</button>
+    <button onclick="add()">ADD</button>
+    <button onclick="sub()">SUB</button>
+    <button onclick="product()">Product</button>
+    <button onclick="div()">Division</button>
     <script src="scripts.js"></script>
 </body>
 </html>
