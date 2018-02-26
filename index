@@ -7,7 +7,17 @@
 </head>
 
 <body id="test">
-
+  <!-- <p>Number 1 </p>
+  <input id="num1" type="text" />
+  <p>Number 2 </p>
+  <input id="num2" type="text" />
+  <p>add</p>
+  <input id="add" type="text" />
+  <script src="scripts.js">
+  </form>
+    <button onclick="add()">add</button>
+  </form> -->
+  </script>
 </body>
 </html>
 

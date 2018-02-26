@@ -1,3 +1,34 @@
+function test( a , b , c) {
+  c = a + b;
+  return c;
+}
+
+test (1,2)
+
+// function add() {
+//   var a = document.getElementById("num1").value;
+//   var b = document.getElementById("num2").value;
+//   console.log(a,b);
+//   var c = Number.parseInt(a) + Number.parseInt(b);
+//   console.log(c);
+//   document.getElementById("add").value = c;
+// }
+// // Global scope
+// var test = 10;
+// console.log(test);
+// function global_fun() {
+//   console.log(fello);
+//   var hello = "Hello"
+//   console.log(hello);
+//   console.log(test);
+//
+//     if (true) {
+//       var another = 10;
+//       console.log(another);
+//     }
+//     console.log(another);
+// }
+// console.log(hello);//Error
 
 
 // function math() {
