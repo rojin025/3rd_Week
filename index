@@ -1,0 +1,27 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+</head>
+
+<body id="test">
+  <form>
+    <p>Pros</p>
+    <input id="num1" type="text" />
+    <p>Time</p>
+    <input id="num1" type="text" />
+    <p>Equals</p>
+    <input id="product" type="text" />
+  </form>
+    <button onclick="printHello">Run Function</button>
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+<!-- <p id="text">a</p>
+<p>b</p>
+<p>C</p> -->
