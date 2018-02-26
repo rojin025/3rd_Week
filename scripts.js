@@ -1,9 +1,9 @@
-function test( a , b , c) {
+function add( a , b) {
   c = a + b;
   return c;
 }
 
-test (1,2)
+add(1,2)
 
 // function add() {
 //   var a = document.getElementById("num1").value;
