@@ -1,5 +1,5 @@
 
-function multiply() {
+function math() {
   var firstnumber = document.getElementById("num1").value;
   var secoundnumber = document.getElementById("num2").value;
   console.log(firstnumber, secoundnumber);

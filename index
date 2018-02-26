@@ -21,7 +21,7 @@
     <p>Division</p>
     <input id="div" type="text" />
   </form>
-    <button onclick="multiply()">Run Function</button>
+    <button onclick="math()">Run Function</button>
     <script src="scripts.js"></script>
 </body>
 </html>
