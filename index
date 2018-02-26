@@ -17,7 +17,7 @@
     <p>Equals</p>
     <input id="product" type="text" />
   </form>
-    <button onclick="printHello">Run Function</button>
+    <button onclick="multiply()">Run Function</button>
     <script src="scripts.js"></script>
 </body>
 </html>
