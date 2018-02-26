@@ -3,25 +3,25 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>The HTML5 Herald</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
+  <title>Function</title>
 </head>
 
 <body id="test">
   <form>
-    <p>Pros</p>
+    <p>Number 1 </p>
     <input id="num1" type="text" />
-    <p>Time</p>
-    <input id="num1" type="text" />
-    <p>Equals</p>
+    <p>Number 2 </p>
+    <input id="num2" type="text" />
+    <p>Product</p>
     <input id="product" type="text" />
+    <p>Subraction</p>
+    <input id="sub" type="text" />
+    <p>Addition</p>
+    <input id="add" type="text" />
+    <p>Division</p>
+    <input id="div" type="text" />
   </form>
     <button onclick="multiply()">Run Function</button>
     <script src="scripts.js"></script>
 </body>
 </html>
-
-<!-- <p id="text">a</p>
-<p>b</p>
-<p>C</p> -->
