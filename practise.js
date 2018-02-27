@@ -6,7 +6,7 @@ function song(x) {
   }
 }
 
-function factorial(y) {
+function factorial(y){
   var result = 1;
   if (y === 0) {
     return 1;
@@ -17,6 +17,7 @@ function factorial(y) {
     return result;
   }
 }
-//
-// var firstnumber = document.getElementById("num1").value;
-// return "A for Apple.B for Ball.C for Cat.";
+
+function kebabToSnake(str) {
+  var newStr = str.replace(/-/g , "_");
+}
